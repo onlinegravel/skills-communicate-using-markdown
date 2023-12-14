@@ -19,5 +19,12 @@ $ cd \myPowerShell scripts
 $ dir *.ps1
 $ .\myPowerShellScript
 ```
+# Task List
+- [x] Download updated code
+- [ ] Install in QA
+- [ ] Test in QA
+- [ ] Create a change for production
+- [ ] Implement in production
+- [ ] Test the updated code
 # Image
 ![Stupid image of an absurd cat](https://octodex.github.com/images/yaktocat.png)
